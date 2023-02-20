@@ -34,10 +34,11 @@ section{padding: 30px 15%;}
     top: 50%;
     left: 50%;
     translate: -50% -50%;
-    width: 200%;
+    width: 110%;
     height: 110%;
     rotate: 2deg;
     background: #1b1526;
+   
 }
 
 .banner h2{
