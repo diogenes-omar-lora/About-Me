@@ -37,8 +37,14 @@ section{padding: 30px 15%;}
     translate: -50% -50%;
     width: 110%;
     height: 110%;
-    rotate: 2deg;
+    /* rotate: 2deg; */
     background: #1b1526;
+    clip-path: polygon(
+        0% 0%,
+        100% 0%,
+        100% 100%,
+        0 calc(100% - 2rem)
+    );
 
 }
 
